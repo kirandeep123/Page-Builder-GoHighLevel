@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "vue-smooth-dnd": "^0.8.1",
     "vue2-storage": "^5.0.0",
     "vuedraggable": "^2.23.2"
